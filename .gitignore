@@ -1,3 +1,5 @@
-temp
 .venv
+temp/
 temp/README.md
+temp/cat.jpg
+temp/dog.jpg
